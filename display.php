@@ -48,11 +48,5 @@ require 'database.php';
     }
     ?>
 </div>
-
-<style>
-    form {
-        display: none;
-    }
-</style>
 </body>
 </html>
